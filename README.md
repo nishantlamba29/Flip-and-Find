@@ -1,5 +1,5 @@
 # Memory matching game
-
+## <b> [Click here to Play the GAME!!](https://memory-matching-game-fzvuusv5i-nishants-projects-88276d59.vercel.app/)
 
 This project is made using HTML,CSS &amp; JavaScript.
 

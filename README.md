@@ -1,6 +1,6 @@
 # Memory matching game
 
-## <b> <a href="https://memory-matching-game-fzvuusv5i-nishants-projects-88276d59.vercel.app/" target="_blank">Click here to Play the GAME!!</a>
+## <b> [Click here to Play the GAME!!]([https://memory-matching-game-fzvuusv5i-nishants-projects-88276d59.vercel.app/](https://memory-matching-game-lac.vercel.app/))
 
 This project is made using HTML,CSS &amp; JavaScript.
 
